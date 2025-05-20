@@ -15,7 +15,7 @@ _Please include a summary of the change and which issue is fixed._
 
 ## Relevant Documentation
 
-_Please include links to any relevant documentation or resources that may help the reviewer understand the changes. Example: Google Doc linke to project plan or decision log._
+_Please include links to any relevant documentation or resources that may help the reviewer understand the changes. Example: Google Doc link to project plan or decision log._
 
 ## QA Instructions, Screenshots, Recordings
 
